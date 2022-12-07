@@ -1,0 +1,10 @@
+{
+  "filename": "QSBRagdoll.dll",
+  "author": "BUNN1E5",
+  "name": "QSB Ragdoll",
+  "uniqueName": "BUNN1E5.QSBRagdoll",
+  "version": "Test",
+  "owmlVersion": "2.7.3",
+
+  "dependencies": [ "Raicuparta.QuantumSpaceBuddies"]
+}
